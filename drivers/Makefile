@@ -189,3 +189,4 @@ obj-$(CONFIG_COUNTER)		+= counter/
 
 obj-y += emkit/
 
+obj-$(CONFIG_DRM_LINDROID_EVDI) += lindroid-drm/
